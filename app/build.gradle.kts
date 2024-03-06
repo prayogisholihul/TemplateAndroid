@@ -48,6 +48,7 @@ dependencies {
 
     implementation(libs.hilt)
     kapt(libs.hilt.kapt)
+    implementation(libs.retrofit)
 
     implementation(libs.viewmodel)
     implementation(libs.activity)
